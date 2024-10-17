@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "LoveFaceSwap",
+    "home_page_url": "https://blog.lovefaceswap.com/",
+    "feed_url": "https://blog.lovefaceswap.com/feed.json",
+    "description": "LoveFaceSwap is a fun platform for easy face swap in photos and videos, letting you unleash your creativity effortlessly!",
+    "items": [
+        {
+            "id": "https://blog.lovefaceswap.com/hilarious-face-swap-videos/",
+            "url": "https://blog.lovefaceswap.com/hilarious-face-swap-videos/",
+            "title": "How to Create Hilarious Face Swap Videos in Minutes",
+            "summary": "Learn how to create one-of-a-kind Halloween-themed drawings with Flux AI. Explore easy steps to generate spooky, creative artwork perfect for the season using advanced AI tools.",
+            "image": "https://blog.lovefaceswap.com/post/create-hilarious-face-swap-videos/face-swap-tool-compare.webp",
+            "date_modified": "2024-10-17T00:00:00.000Z"
+        },
+        {
+            "id": "https://blog.lovefaceswap.com/free-face-swap-2024/",
+            "url": "https://blog.lovefaceswap.com/free-face-swap-2024/",
+            "title": "Free Face Swap Software in 2024! Remaker AI, Vidnoz, and LoveFaceSwap",
+            "summary": "Explore the top free face swap tools of 2024! This comparison covers Remaker AI, Vidnoz, and LoveFaceSwap, highlighting their features, limitations, and usability to help you find the perfect tool for your needs.",
+            "image": "https://blog.lovefaceswap.com/post/free-face-swap/remaker-ai-face-swap.webp",
+            "date_modified": "2024-10-08T00:00:00.000Z"
+        },
+        {
+            "id": "https://blog.lovefaceswap.com/halloween-drawings-use-flux/",
+            "url": "https://blog.lovefaceswap.com/halloween-drawings-use-flux/",
+            "title": "Create Unique Halloween Drawings Using Flux AI",
+            "summary": "Learn how to create one-of-a-kind Halloween-themed drawings with Flux AI. Explore easy steps to generate spooky, creative artwork perfect for the season using advanced AI tools.",
+            "image": "https://blog.lovefaceswap.com/post/create-halloween-drawings-use-flux/halloween-party-scene.webp",
+            "date_modified": "2024-10-12T00:00:00.000Z"
+        },
+        {
+            "id": "https://blog.lovefaceswap.com/how-to-create-sexy-video/",
+            "url": "https://blog.lovefaceswap.com/how-to-create-sexy-video/",
+            "title": "How to Create Sexy AI Videos for Free! A Step-by-Step Guide",
+            "summary": "Create sexy AI videos for free with LoveFaceSwap. Use face swap, image-to-video, and text-to-video tools to generate stunning content quickly and effortlessly.",
+            "image": "https://blog.lovefaceswap.com/post/create-sexy-ai-video/ai-portrait.webp",
+            "date_modified": "2024-10-16T00:00:00.000Z"
+        }
+    ]
+}
